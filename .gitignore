@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.playwright-cli/
+.allure/
+reports/allure-results/*
+!reports/allure-results/.gitkeep
+reports/allure-report/
+locust-report*.html
+.env
