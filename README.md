@@ -1,4 +1,4 @@
-# Restful-Booker API 自动化测试项目
+# Restful-Booker API 自动化测试
 
 以公开练习 API [Restful-Booker](https://restful-booker.herokuapp.com/) 为被测系统，覆盖认证、Booking 的增删改查、异常输入与鉴权校验；同一套业务接口层同时服务于 `pytest` 自动化回归与 `Locust` 小规模性能测试。
 
